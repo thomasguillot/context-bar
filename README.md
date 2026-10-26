@@ -54,3 +54,7 @@ Run the install again. It overwrites `~/.claude/context-bar.js` with the latest 
 ## Uninstall
 
 Remove the `statusLine` entry from `~/.claude/settings.json` and delete `~/.claude/context-bar.js`.
+
+## License
+
+[MIT](LICENSE)
